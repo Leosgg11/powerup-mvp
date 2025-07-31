@@ -1,0 +1,7 @@
+src/
+├── App.js
+├── ProductList.jsx
+├── ProductForm.jsx
+├── SaleList.jsx
+├── SaleForm.jsx
+└── ...otros archivos

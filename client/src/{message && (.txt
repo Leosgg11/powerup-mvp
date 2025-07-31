@@ -1,0 +1,5 @@
+{message && (
+  <div style={{ color: message.includes('Error') ? 'red' : 'green', marginBottom: 8 }}>
+    {message}
+  </div>
+)}

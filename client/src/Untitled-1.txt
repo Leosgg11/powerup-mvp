@@ -1,0 +1,10 @@
+client/
+├── src/
+│   ├── App.js
+│   ├── index.js
+│   └── ...otros archivos de React
+├── public/
+│   └── index.html
+├── package.json
+├── package-lock.json
+└── ...otros archivos
